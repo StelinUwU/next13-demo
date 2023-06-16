@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { PokemonsResponse, SimplePokemon } from "@/interfaces";
 import { PokemonsGrid } from "@/components";
 
